@@ -1,0 +1,125 @@
+﻿ID;Endereço;Bairro;Zona;Piscina;Portaria 24h;Tamanho;Academia;bed;char;couch;microwave;sink;toilet;tv;oven
+ACL11;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;40;1;0;0;0;0;0;0;0;0
+ACL22;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;40;1;0;0;0;0;0;0;0;0
+AFF255;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;40;1;0;0;0;0;0;0;0;0
+CA1004;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;28;1;0;0;0;0;0;0;0;0
+CA1107;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;28;1;0;0;0;0;0;0;0;0
+CA1302;Alameda Campinas, 708;Jardim Paulista;Oeste;0;1;28;1;0;0;0;0;0;0;0;0
+FL061;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL112;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL113;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL115A;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL115B;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL116;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL123;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL135;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL136;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL143;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL144;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL145;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL152;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL153;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL154;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL155;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL156;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL171;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL173;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL174;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL175;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL54;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL65;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL75;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL8292;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL83;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL86;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL92;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL94;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+FL95;R. Cel. Joaquim Ferreira Lôbo, 305;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1001;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1110;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1210;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1308;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1403;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1405;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1406;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1408;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1409;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1411;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1508;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1508A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1509;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1510;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1512;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1603;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1604;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1604A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1612;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1703;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1704;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1708;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1710;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC1710A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC305;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC310;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC401;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC403A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC403B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC404;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC404A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC405;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC408;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC408A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC409;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC410;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC410A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC412A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC412B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC505;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC602;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC607A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC607B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC608A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC608B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC609A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC609B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC610A;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC610B;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC708;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC709;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC802;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC803;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC805;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC808;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC812;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC902;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC903;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC904;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+GC906;R. Gomes de Carvalho, 1146;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1003;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1006;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1203;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1204;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1207;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1301;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1304;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1403;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1405;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1406;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1408;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU1505;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU207;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU208;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU303;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU304;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU306;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU404;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU405;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU501;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU501B;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU505;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU704;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU706;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU803;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU806;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+QU905;R. Quatá, 76;Vila Olímpia;Sul;1;1;28;1;0;0;0;0;0;0;0;0
+VTS029;R. Turiassú, 1473;Perdizes;Oeste;1;1;28;1;0;0;0;0;0;0;0;0
