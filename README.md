@@ -1,6 +1,6 @@
 # Projeto_Integrador_yolo
 
-**Este projeto foi desenvolvido como trabalho final no curso de Data Science oferecido e ministrado pela Digital House. Os dados utilizados neste projeto foram fornecidos generosamente pela empresa com a qual foi acordado previamente este projeto.**
+**Este projeto foi desenvolvido como trabalho final no curso de Data Science oferecido e ministrado pela Digital House. Os dados utilizados neste projeto foram fornecidos generosamente pela empresa com a qual foi acordado previamente este projeto. Todas as identificações de imagens realizadas pelo modelo foram feitas através do sistema de detecção de objetos _YOLO_**
 
 *A explicação do projeto é simples e direta.*
 
